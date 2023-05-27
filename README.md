@@ -2,7 +2,7 @@
 一个获取主机信息的脚本（Disk、CPU、Memery、Network）
 ## 运行截图
 
-![test](C:\Users\ZB\Desktop\test.png)
+![test](test.png)
 
 ## 使用方法
 
